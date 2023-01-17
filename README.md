@@ -7,6 +7,9 @@
   - [Tutorial (Arduino)](https://cdn-learn.adafruit.com/downloads/pdf/16-channel-pwm-servo-driver.pdf)
   - [Circuit Python Tutorial](https://learn.adafruit.com/16-channel-pwm-servo-driver/python-circuitpython)
   - [Circuit Python](https://circuitpython.org/)
+- Connection:
+
+<img src="assets/connection.png" alt="Wiring" width="800"/>
 
 ## Setup
 
